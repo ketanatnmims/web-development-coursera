@@ -10,7 +10,7 @@ h1 {
 section {
   background-color: grey;
   position:relative;
-  margin:5px;
+  border:5px;
 }
 p {
   height: 150px;
