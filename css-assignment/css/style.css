@@ -8,8 +8,9 @@ h1 {
   text-align: center;
 }
 section {
-    background-color: grey;
+  background-color: grey;
   position:relative;
+  margin:5px;
 }
 p {
   height: 150px;
