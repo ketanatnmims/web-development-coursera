@@ -26,7 +26,8 @@ p {
   color: white;
   text-align:right;
   position:absolute;
-  right:0;
+  align-self:right;
+
   }
   .content {
     clear:both;
