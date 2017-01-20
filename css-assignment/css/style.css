@@ -9,6 +9,7 @@ h1 {
 }
 section {
     background-color: grey;
+  position:relative;
 }
 p {
   height: 150px;
@@ -17,15 +18,19 @@ p {
 }
   
 .title {
-  border: 5px solid black;
+  border: 1px solid black;
   background-color: blue;
   height: 30px;
   font-family: Helvetica;
-  color: white;
+  color: yellow;
   text-align:center;
   float:right;
   }
   .content {
+    color:black;
+    position:absolute;
+    top:0;
+    left:0;
     clear:both;
   }
   
