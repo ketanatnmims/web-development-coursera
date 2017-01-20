@@ -15,7 +15,6 @@ p {
   color: white;
   margin-top: 10px;
   margin-bottom: 10px;
-  position:relative;
 }
   
 .title {
@@ -27,8 +26,6 @@ p {
   color: white;
   text-align:right;
   position:absolute;
-  align-self:right;
-
   }
   .content {
     clear:both;
