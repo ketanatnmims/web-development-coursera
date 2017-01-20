@@ -29,8 +29,8 @@ p {
   .content {
     color:black;
     position:absolute;
-    top:0;
-    left:0;
+    top:5;
+    left:5;
     clear:both;
   }
   
