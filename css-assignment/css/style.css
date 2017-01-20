@@ -26,6 +26,7 @@ p {
   color: white;
   text-align:right;
   position:absolute;
+  float:right;
   }
   .content {
     clear:both;
