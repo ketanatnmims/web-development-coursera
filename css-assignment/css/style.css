@@ -12,7 +12,6 @@ section {
 
 }
 p {
-  height: 150px;
   font-family: Helvetica;
   color: white;
    border:5px;
@@ -29,6 +28,7 @@ p {
   }
   .content {
     color:black;
+     height: 150px;
     position:absolute;
     top:5;
     left:5;
