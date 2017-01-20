@@ -26,16 +26,17 @@ p {
 }
   
 .title {
-  position:relative;
-  top:10px;
-  left:10px;
-  border: 1px solid black;
+  border: 5px solid black;
   background-color: grey;
+  width:200px;
   height: 50px;
   font-family: Helvetica;
   color: white;
+  float:right;
   }
-  
+  .content {
+    clear:both;
+  }
   
 /* Simple Responsive Framework. */
 .row {
@@ -136,15 +137,15 @@ p {
 <div class="row">
   <section class="col-lg-4 col-md-6">
     <p class="title">Item 1</p>
-    <p>Sample Text</p>
+    <p class="content">Sample Text</p>
   </section>
   <section class="col-lg-4 col-md-6">
     <p class="title">Item 2</p>
-    <p>Sample Text</p>
+    <p class="content">Sample Text</p>
   </section>
   <section class="col-lg-4 col-md-12">
     <p class="title">Item 3</p>
-  <p>Sample Text</p>
+  <p class="content">Sample Text</p>
   </section>
 </div>
 
