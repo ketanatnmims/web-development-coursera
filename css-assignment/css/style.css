@@ -39,6 +39,7 @@ p {
     float: left;
     border: 1px solid blue;
     padding:5px;
+    margin: 5px;
   }
   .col-lg-1 {
     width: 8.33%;
@@ -83,6 +84,7 @@ p {
     float: left;
     border: 1px solid blue;
     padding:5px;
+    margin: 5px;
   }
   .col-md-1 {
     width: 8.33%;
