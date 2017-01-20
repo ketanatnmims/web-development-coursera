@@ -20,11 +20,11 @@ p {
 .title {
   border: 5px solid black;
   background-color: blue;
-  width:200px;
+  width:125px;
   height: 30px;
   font-family: Helvetica;
   color: white;
-  text-align:right;
+  text-align:center;
   position:absolute;
   float:right;
   }
