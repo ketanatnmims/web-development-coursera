@@ -12,9 +12,9 @@ section {
 
 }
 p {
-  font-family: Helvetica;
-  color: white;
-
+  border:5px;
+  width:90%;
+  height: 150px;
 }
   
 .title {
@@ -28,13 +28,7 @@ p {
   }
   .content {
     color:black;
-     height: 150px;
-    position:absolute;
-    top:5;
-    left:5;
     clear:both;
-    border:5px;
-    width:90%;
   }
   
 /* Simple Responsive Framework. */
