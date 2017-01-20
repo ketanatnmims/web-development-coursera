@@ -24,9 +24,9 @@ p {
   height: 30px;
   font-family: Helvetica;
   color: white;
-  float:right;
   text-align:right;
   position:absolute;
+  right:0;
   }
   .content {
     clear:both;
